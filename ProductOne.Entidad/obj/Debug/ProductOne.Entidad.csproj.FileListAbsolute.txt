@@ -1,0 +1,9 @@
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Entidad\bin\Debug\ProductOne.Entidad.dll
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Entidad\bin\Debug\ProductOne.Entidad.pdb
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Entidad\bin\Debug\ProductOne.Utilitarios.dll
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Entidad\bin\Debug\ProductOne.Utilitarios.pdb
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Entidad\obj\Debug\ProductOne.Entidad.csprojAssemblyReference.cache
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Entidad\obj\Debug\ProductOne.Entidad.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Entidad\obj\Debug\ProductOne.Entidad.csproj.CopyComplete
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Entidad\obj\Debug\ProductOne.Entidad.dll
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Entidad\obj\Debug\ProductOne.Entidad.pdb

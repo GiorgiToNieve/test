@@ -1,0 +1,6 @@
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Utilitarios\obj\Release\ProductOne.Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Utilitarios\bin\Release\ProductOne.Utilitarios.dll
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Utilitarios\bin\Release\ProductOne.Utilitarios.pdb
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Utilitarios\obj\Release\ProductOne.Utilitarios.dll
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Utilitarios\obj\Release\ProductOne.Utilitarios.pdb
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Utilitarios\obj\Release\ProductOne.Utilitarios.csprojAssemblyReference.cache

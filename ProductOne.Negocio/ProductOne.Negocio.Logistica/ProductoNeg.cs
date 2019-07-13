@@ -80,7 +80,7 @@ namespace ProductOne.Negocio.ProductOne.Negocio.Logistica
 		{
 			try
 			{
-				return Task.Run(() => ProductoAdo.Instance.Consultar(parametros));
+				return Task.Run(() => ProductoAdo.Instance.Consultar(parametros,"*"));
 			}
 			catch (Exception)
 			{

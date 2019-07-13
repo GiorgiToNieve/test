@@ -1,0 +1,11 @@
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Datos\obj\Release\ProductOne.Datos.csprojAssemblyReference.cache
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Datos\obj\Release\ProductOne.Datos.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Datos\bin\Release\ProductOne.Datos.dll
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Datos\bin\Release\ProductOne.Datos.pdb
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Datos\bin\Release\ProductOne.Entidad.dll
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Datos\bin\Release\ProductOne.Utilitarios.dll
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Datos\bin\Release\ProductOne.Entidad.pdb
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Datos\bin\Release\ProductOne.Utilitarios.pdb
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Datos\obj\Release\ProductOne.Datos.csproj.CopyComplete
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Datos\obj\Release\ProductOne.Datos.dll
+C:\Users\ASUS-PC\source\repos\ProductOne\ProductOne.Datos\obj\Release\ProductOne.Datos.pdb

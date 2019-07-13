@@ -1473,18 +1473,7 @@ namespace ProductOne.Utilitarios
 		/// 13/Ago/2018
 		/// </summary>
 		/// <param name="dtpFecha"></param>
-		public static void ToFechaCorta(this RadDateTimePicker dtpFecha)
-		{
-			try
-			{
-				dtpFecha.Format = DateTimePickerFormat.Custom;
-				dtpFecha.CustomFormat = @"dd/MMM/yyyy";
-			}
-			catch
-			{
-				// ignored
-			}
-		}
+		
 
 
 		/// <summary>
